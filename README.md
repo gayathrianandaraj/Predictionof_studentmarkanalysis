@@ -1,2 +1,1 @@
-# Myproject
-All my projects
+student's academic mark prediction
